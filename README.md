@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/100236949/155212803-d69a6f5e-0adf-46df-a80e-bf1e03a59db1.png)
+
 Data Engineering Test
 This test is part of the hiring process for Data Engineers @ Suzano Digital
 

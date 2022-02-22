@@ -10,4 +10,4 @@ Our team is responsible for all advanced analytics, machine learning and data sc
 
 We will always have room for talented and skilled data engineering professionals. If you are interested in joining our team, complete this test .
 
-Access the  [Test Page](docs/test.md)
+Access the  [Test Page](test.md)

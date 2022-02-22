@@ -36,7 +36,6 @@ You need to build a code that gets the data in a automatic way and load the data
 
 
 
-Chinese Caixin Services Index
 
 | Chinese Caixin Services Index | 
 | :---:  |

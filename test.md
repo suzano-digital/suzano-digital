@@ -66,13 +66,16 @@ You need to build a code that gets the data in a automatic way and load the data
 
 
 
-**Closing Remarks**
+## Closing Remarks
 
 
-Use the programming language of your choice
-Use the libraries that are already built to make your work easier (remember in the end of the day what is important is the job done)
-Use a database to store the data in tables format
-Seize this opportunity to demonstrate your skills in some data pipeline orchestration framework and containerization technology! 
+- Use the programming language of your choice . (But we love Python, just a tip , i'm kidding it's up to you:D)
+- Use the libraries that are already built to make your work easier (remember in the end of the day what is important is the job done)
+- Use a database to store the data in tables format
+
+
+
+**Seize this opportunity to demonstrate your skills in some data pipeline orchestration framework, containerization and cloud computing technology!**
 
 Store your code in your Github account make it **private** 
 

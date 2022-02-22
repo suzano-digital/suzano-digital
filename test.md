@@ -30,10 +30,9 @@ https://br.investing.com/currencies/usd-cny
 
 He said that he needs  monthly data from 1991 till now
 
-**Goal**
+## Goal
 
 You need to build a code that gets the data in a automatic way and load the data in tables as below :
-
 
 
 

@@ -2,7 +2,7 @@ Data Engineer Test
 
 You are working in a project that uses public economic data to predict some directions regarding the paper price .
 
-A Data Scientist in your project asks you to gather data from the investing.com website .
+A Data Scientist in your project asks you to gather data from the **investing.com** website .
 
 He needs the data from Chinese Caixin Services Index , Bloomberg Commodity Index  and USD/CNY 
 

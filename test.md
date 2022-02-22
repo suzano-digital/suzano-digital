@@ -75,5 +75,7 @@ Use the libraries that are already built to make your work easier (remember in t
 Use a database to store the data in tables format
 Seize this opportunity to demonstrate your skills in some data pipeline orchestration framework and containerization technology! 
 
+Store your code in your Github account make it **private** 
+
 
 Good luck!

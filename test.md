@@ -70,7 +70,7 @@ You need to build a code that gets the data in a automatic way and load the data
 
 - Use the programming language of your choice . (But we love Python, just a tip , i'm kidding it's up to you :D )
 - Use the libraries that are already built to make your work easier (remember in the end of the day what is important is the job done)
-- Use a database to store the data in tables format
+- Use a database to store the data in tables format(dont use SQLlite)
 
 
 

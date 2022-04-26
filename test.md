@@ -4,7 +4,7 @@ You are working in a project that uses public economic data to predict some dire
 
 A Data Scientist in your project asks you to gather data from the **investing.com** website .
 
-He needs the data from Chinese Caixin Services Index , Bloomberg Commodity Index  and USD/CNY Daily
+He needs the data from Chinese Caixin Services Index , Bloomberg Commodity Index  and USD/CNY **Daily**
 
 He gaves you 3 website pages that you can get this information 
 
